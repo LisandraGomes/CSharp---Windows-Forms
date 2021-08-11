@@ -1,0 +1,16 @@
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\bin\Debug\netcoreapp3.1\Calculadora csharp.exe
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\bin\Debug\netcoreapp3.1\Calculadora csharp.deps.json
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\bin\Debug\netcoreapp3.1\Calculadora csharp.runtimeconfig.json
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\bin\Debug\netcoreapp3.1\Calculadora csharp.runtimeconfig.dev.json
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\bin\Debug\netcoreapp3.1\Calculadora csharp.dll
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\bin\Debug\netcoreapp3.1\Calculadora csharp.pdb
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\obj\Debug\netcoreapp3.1\Calculadora csharp.csproj.AssemblyReference.cache
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\obj\Debug\netcoreapp3.1\Calculadora_csharp.Form1.resources
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\obj\Debug\netcoreapp3.1\Calculadora csharp.csproj.GenerateResource.cache
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\obj\Debug\netcoreapp3.1\Calculadora csharp.AssemblyInfoInputs.cache
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\obj\Debug\netcoreapp3.1\Calculadora csharp.AssemblyInfo.cs
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\obj\Debug\netcoreapp3.1\Calculadora csharp.csproj.CoreCompileInputs.cache
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\obj\Debug\netcoreapp3.1\Calculadora csharp.dll
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\obj\Debug\netcoreapp3.1\Calculadora csharp.pdb
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\obj\Debug\netcoreapp3.1\Calculadora csharp.genruntimeconfig.cache
+D:\0-Repositorio for GIT\Csharp\Calculadora csharp\Calculadora csharp\obj\Debug\netcoreapp3.1\Calculadora_csharp.Properties.Resources.resources
