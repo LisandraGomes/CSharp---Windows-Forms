@@ -1,0 +1,17 @@
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\bin\Debug\netcoreapp3.1\BabyBotTelegram.exe
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\bin\Debug\netcoreapp3.1\BabyBotTelegram.deps.json
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\bin\Debug\netcoreapp3.1\BabyBotTelegram.runtimeconfig.json
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\bin\Debug\netcoreapp3.1\BabyBotTelegram.runtimeconfig.dev.json
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\bin\Debug\netcoreapp3.1\BabyBotTelegram.dll
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\bin\Debug\netcoreapp3.1\BabyBotTelegram.pdb
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\obj\Debug\netcoreapp3.1\BabyBotTelegram.csproj.AssemblyReference.cache
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\obj\Debug\netcoreapp3.1\BabyBotTelegram.GeneratedMSBuildEditorConfig.editorconfig
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\obj\Debug\netcoreapp3.1\BabyBotTelegram.AssemblyInfoInputs.cache
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\obj\Debug\netcoreapp3.1\BabyBotTelegram.AssemblyInfo.cs
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\obj\Debug\netcoreapp3.1\BabyBotTelegram.csproj.CoreCompileInputs.cache
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\obj\Debug\netcoreapp3.1\BabyBotTelegram.csproj.CopyComplete
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\obj\Debug\netcoreapp3.1\BabyBotTelegram.dll
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\obj\Debug\netcoreapp3.1\BabyBotTelegram.pdb
+D:\0-Repositorio for GIT\Csharp\Projetos-C-\BabyBotTelegram\BabyBotTelegram\obj\Debug\netcoreapp3.1\BabyBotTelegram.genruntimeconfig.cache
